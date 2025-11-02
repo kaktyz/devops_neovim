@@ -9,6 +9,7 @@
 4) [go](https://github.com/golang/go)
 5) [python](https://github.com/python)
 6) [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
+7) [ripgrep](https://github.com/BurntSushi/ripgrep)
 # First start
 1) Run nvim, press :MasonInstaAll
 # Text support 
