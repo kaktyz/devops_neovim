@@ -10,6 +10,7 @@
 5) [python](https://github.com/python)
 6) [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 7) [ripgrep](https://github.com/BurntSushi/ripgrep)
+8) [npm](https://github.com/npm/cli)
 # First start
 1) Run nvim, press :MasonInstaAll
 # Text support 
