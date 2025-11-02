@@ -8,6 +8,7 @@
 3) [node](https://github.com/nodejs/node)
 4) [go](https://github.com/golang/go)
 5) [python](https://github.com/python)
+6) [nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 # First start
 1) Run nvim, press :MasonInstaAll
 # Text support 
