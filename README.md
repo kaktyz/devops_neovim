@@ -13,6 +13,13 @@
 8) [npm](https://github.com/npm/cli)
 # First start
 1) Run nvim, press :MasonInstaAll
+## Example install ubuntu
+```bash
+apt update && apt install wget git nodejs npm unzip golang -y
+wget https://github.com/neovim/neovim/releases/download/v0.11.4/nvim-linux-arm64.tar.gz
+tar xzvf nvim-linux-arm64.tar.gz
+git clone https://github.com/kaktyz/devops_neovim.git ~/.config/nvim && ./nvim-linux-arm64/bin/nvim
+```
 # Text support 
 This forck support files with
 - golang
