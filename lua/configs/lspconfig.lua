@@ -24,10 +24,7 @@ end
 -- }
 
 lspconfig.terraformls.setup({
-  -- on_attach = on_attach,
-  -- capabilities = capabilities,
   on_attach = nvlsp.on_attach,
   on_init = nvlsp.on_init,
   capabilities = nvlsp.capabilities,
 })
-

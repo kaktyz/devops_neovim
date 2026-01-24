@@ -32,6 +32,7 @@ return {
   },
   {
     "neovim/nvim-lspconfig",
+    version = "0.1.8",
     config = function()
       require "configs.lspconfig"
     end,
@@ -284,6 +285,13 @@ return {
       -- or leave it empty to use the default settings
       -- refer to the configuration section below
     }
+  },
+  {
+    "rust-lang/rust.vim",
+    ft = "rust",
+    init = function ()
+      vim.g.rustfmt_autosave = 1
+    end
   },
 }
 
