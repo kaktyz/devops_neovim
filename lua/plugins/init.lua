@@ -52,6 +52,7 @@ return {
         "python",
         "query",
         "regex",
+        "rust",
         "tsx",
         "typescript",
         "vim",
@@ -139,6 +140,10 @@ return {
           -- docker
           "dockerfile-language-server",
           "flake8",
+          -- rust
+          "rust-analyzer",
+          "rustfmt",
+          "rustc",
         },
       },
   },
