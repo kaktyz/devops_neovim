@@ -110,8 +110,6 @@ return {
       end,
    },
 
-  {"watzon/vim-edge-template"},
-
   {
       "williamboman/mason.nvim",
       opts = {
@@ -285,5 +283,6 @@ return {
       -- refer to the configuration section below
     }
   },
+  { import = "nvchad.blink.lazyspec" },
 }
 

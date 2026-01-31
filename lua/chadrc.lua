@@ -6,7 +6,7 @@
 local M = {}
 
 M.base46 = {
-	theme = "oceanic-next",
+	theme = "catppuccin",
   transparency = true,
   statysline = {
     theme = "vscode_colored"
@@ -66,7 +66,7 @@ M.ui = {
       tabufline = {
          lazyload = false
      },
-  theme_toggle = { "oceanic-next", "ayu_light" },
+  theme_toggle = { "catppuccin", "ayu_light" },
   hl_override = {
     -- Если `hl_override` в `base46` не работает, дублируем здесь
     CursorLine = { bg = "#2e2e2e", bold = true },
